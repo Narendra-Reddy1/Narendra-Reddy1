@@ -14,18 +14,11 @@ I love experimenting with new technologies, solving complex problems, and pushin
 
 Here are some of the technologies I work with:
 
-- **Game Development**: Unity3D, C#, Game Design, Mobile Game Development (iOS & Android)
+- **Game Development**: Unity3D, Game Design, Mobile Game Development.
 - **Blockchain Development**: Solidity, Smart Contracts, Ether.js, Hardhat
-- **Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL
+- **Backend Development**: Springboot, Node.js, Express.js, RESTful APIs, GraphQL
 - **Version Control**: Git, GitHub, SourceTree
-- **Languages**: JavaScript, C#, Solidity
-
-## 🔥 What I'm Currently Working On
-
-- Developing decentralized applications (dApps) using Solidity and **Ethereum**.
-- Building and deploying **NFT-based games** that integrate blockchain features.
-- Exploring new **blockchain frameworks** and expanding my knowledge in **Layer 2** solutions.
-- Learning about **DeFi protocols** and integrating them into gaming ecosystems.
+- **Languages**: C#, Java, JavaScript, Solidity
 
 ## 📚 Projects & Contributions
 
@@ -50,7 +43,7 @@ I’m always open to learning new things, collaborating, and contributing to exc
 
 ## 🔑 Fun Fact
 
-When I'm not coding, you can find me experimenting with **game mechanics**, **blockchain trends**, and working on creative projects that combine the two worlds. I believe that gaming and blockchain have a bright future ahead!
+When I'm not coding, you can find me experimenting with **game mechanics**, **backend developments** **blockchain trends**, and working on creative projects that combine the gaming and blockchain worlds. I believe that gaming and blockchain have a bright future ahead!
 
 Thanks for visiting my GitHub profile! 🚀
 
