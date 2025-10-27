@@ -38,6 +38,6 @@ Feel free to reach out through:
 
 ## 🔑 Fun Fact
 
-When I'm not coding, I'm diving deep into **backend system design**, exploring **blockchain trends**, or optimizing performance for fun side-projects.
+When I'm not coding, I'm diving deep into **backend system design**, exploring **blockchain trends**.
 
 Thanks for visiting my GitHub profile! 🚀
